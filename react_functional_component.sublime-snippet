@@ -3,9 +3,9 @@
 import React from 'react';
 
 const ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}} = (props) => {
-    return ${2:(
-      ${3:<div>${0}</div>}
-    );}
+  return ${2:(
+    ${3:<div>${0}</div>}
+  );}
 };
 
 export default ${1};
